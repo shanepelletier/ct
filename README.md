@@ -9,9 +9,11 @@
 _Cats files, lists dirs._
 
 Tiny tool that lists directories and prints files. Replacement for cat and ls
-all in one. Uses [exa] to list files, and accepts all its options.
+all in one. Uses [bat] to print files, uses [exa] to list files. Supports
+the same options as exa.
 
 [exa]: https://the.exa.website
+[bat]: https://github.com/sharkdp/bat
 
 ## Install
 
